@@ -18,4 +18,4 @@ autokey.register_keypress_cheat("autosneak", "AutoSneak", "Movement", "sneak", f
 	return core.localplayer:is_touching_ground()
 end)
 
-autokey.register_keypress_cheat("autosprint", "AutoSneak", "Movement", "special1")
+autokey.register_keypress_cheat("autosprint", "AutoSprint", "Movement", "special1")
